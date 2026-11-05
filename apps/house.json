@@ -1,5 +1,5 @@
 {
-  "houseShare": 0,
+  "houseShare": 0.5,
   "slideSeconds": 4,
   "appSeconds": 30,
   "apps": [
@@ -10,6 +10,20 @@
       "nameEn": "Reaction Time & Drag Tree",
       "descAr": "تجربة: اختبر سرعة رد فعلك ونافس أصدقاءك",
       "descEn": "Test: check your reaction time and challenge friends"
+    },
+    {
+      "pkg": "com.sadalogic.academiccalendar",
+      "weight": 1,
+      "nameAr": "التقويم الدراسي",
+      "nameEn": "Academic Calendar",
+      "descAr": "الإجازات والمناسبات الدراسية بالتاريخين الهجري والميلادي",
+      "descEn": "School holidays and key dates in Hijri and Gregorian",
+      "banner": "apps/house/calendar_banner_ar.jpg",
+      "mrec": [
+        "apps/house/calendar_1_ar.jpg",
+        "apps/house/calendar_2_ar.jpg",
+        "apps/house/calendar_3_ar.jpg"
+      ]
     }
   ]
 }
