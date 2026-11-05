@@ -1,15 +1,1 @@
-{
-  "houseShare": 0,
-  "slideSeconds": 4,
-  "appSeconds": 30,
-  "apps": [
-    {
-      "pkg": "com.sadalogic.reactiontime",
-      "weight": 1,
-      "nameAr": "بطولة رد الفعل وسباق الدراق",
-      "nameEn": "Reaction Time & Drag Tree",
-      "descAr": "تجربة: اختبر سرعة رد فعلك ونافس أصدقاءك",
-      "descEn": "Test: check your reaction time and challenge friends"
-    }
-  ]
-}
+{"houseShare": 0, "slideSeconds": 4, "appSeconds": 30, "apps": []}
