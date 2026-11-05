@@ -2,18 +2,10 @@
   "adsDisabled": true,
   "appUpdate": {
     "belowVersionCode": 5,
-    "mode": "warn",
-    "title": "تحديث تجريبي",
-    "message": "هذا تنبيه تجريبي بوجود تحديث. يظهر مرة في اليوم.",
-    "titleEn": "Test update",
-    "messageEn": "This is a test update notice. It appears once a day."
-  },
-  "notice": {
-    "id": "test-2",
-    "until": "2026-11-30",
-    "title": "رسالة تجريبية 2",
-    "message": "رسالة عامة تجريبية ثانية.",
-    "titleEn": "Test message 2",
-    "messageEn": "Second test general message."
+    "mode": "block",
+    "title": "تحديث مطلوب (تجربة)",
+    "message": "هذه نسخة قديمة. حدّث التطبيق من المتجر للمتابعة. (رسالة تجريبية)",
+    "titleEn": "Update required (test)",
+    "messageEn": "This version is outdated. Update the app from the store to continue. (Test message)"
   }
 }
