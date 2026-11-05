@@ -1,1 +1,11 @@
-{"adsDisabled": false}
+{
+  "adsDisabled": true,
+  "notice": {
+    "id": "test-1",
+    "until": "2026-11-30",
+    "title": "رسالة تجريبية",
+    "message": "هذه رسالة تجريبية من ملف الموقع. تظهر مرة واحدة فقط.",
+    "titleEn": "Test message",
+    "messageEn": "This is a test message from the website file. It appears only once."
+  }
+}
