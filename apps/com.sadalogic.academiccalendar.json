@@ -2,10 +2,10 @@
   "adsDisabled": true,
   "appUpdate": {
     "belowVersionCode": 5,
-    "mode": "block",
-    "title": "تحديث مطلوب (تجربة)",
-    "message": "هذه نسخة قديمة. حدّث التطبيق من المتجر للمتابعة. (رسالة تجريبية)",
-    "titleEn": "Update required (test)",
-    "messageEn": "This version is outdated. Update the app from the store to continue. (Test message)"
+    "mode": "stop",
+    "title": "التطبيق متوقف (تجربة)",
+    "message": "توقف التطبيق مؤقتاً. (رسالة تجريبية)",
+    "titleEn": "App stopped (test)",
+    "messageEn": "The app is temporarily stopped. (Test message)"
   }
 }
