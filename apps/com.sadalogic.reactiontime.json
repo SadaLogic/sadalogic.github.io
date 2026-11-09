@@ -1,1 +1,1 @@
-{"adsDisabled": false}
+{"adsDisabled": false, "appUpdate": {"belowVersionCode": 2, "mode": "warn", "title": "تجربة التنبيه", "message": "رسالة تجربة للتنبيه", "titleEn": "Warn test", "messageEn": "Warn test message"}, "notice": {"id": "test-1", "until": "2026-11-30", "title": "تجربة", "message": "رسالة تجربة", "titleEn": "Test", "messageEn": "Test message"}}
